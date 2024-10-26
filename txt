@@ -1,0 +1,9 @@
+Headings, paragraphs, and text formatting
+Links and anchor tags
+Images and attributes
+Lists: ordered and unordered
+Tables and their structure
+
+heading - h1-h6
+h6- smaller font
+h1 - larger font
